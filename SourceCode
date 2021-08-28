@@ -1,0 +1,9 @@
+import seaborn as sns
+import pandas as pd 
+df=pd.read_csv("Data.csv")
+df.get
+df.pop
+df.where
+df.isna()
+for j in cols:
+  print(j)
